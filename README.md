@@ -16,7 +16,7 @@ This repository contains the sample analysis script for BioScan.
     git push -u origin main
     ```
 
-### 2. Configure Jenkins Freestyle Job
+### 2. Configure Jenkins Freestyle Job 
 1.  Open Jenkins and click **New Item**.
 2.  Enter a name (e.g., `BioScan-Analysis`) and select **Freestyle project**. Click **OK**.
 3.  **Source Code Management**:
