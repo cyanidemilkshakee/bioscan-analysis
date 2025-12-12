@@ -2,6 +2,8 @@
 
 This repository contains the sample analysis script for BioScan.
 
+#DevOps
+
 ## Setup Instructions
 
 ### 1. Create a GitHub Repo
